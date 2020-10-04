@@ -1,1 +1,5 @@
-OK MAN
+Milestone:
+
+A milestone is defined based on a chunk of the project that should be delivered as a course, or the leaning process goes. 
+That means, if, for example, I will learn  React.JS, I should commit myself to push at least 65% of the chunk by the due date on GitHub.
+We, as a group, will define what is this chunk and how many sprints should have to accomplish it  
